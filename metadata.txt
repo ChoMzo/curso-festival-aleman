@@ -1,0 +1,12 @@
+﻿---
+title: "Alemán para Sobrevivir un Festival de Música en Berlín"
+creator:
+  - role: author
+    text: "Chourouk Mzouri Setti"
+publisher: "Autoeditado"
+rights: "© 2025 Chourouk Mzouri Setti"
+language: "es"
+...
+
+
+
